@@ -54,7 +54,7 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+![Factorial](Factorial.png)
 
 ---
 MANUAL CALCULATIONS
